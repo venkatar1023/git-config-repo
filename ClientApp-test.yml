@@ -1,0 +1,4 @@
+server:
+  port: 8222
+welcome:
+  message: welcome to test env.
